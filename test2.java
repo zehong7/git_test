@@ -4,5 +4,6 @@ import java.io.*;
 public class test2 {
     public static void main(String[] args) {
         System.out.println("adding sth!");
+        System.out.println("This is an error, you need to return!");
     }
 }
